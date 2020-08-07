@@ -39,4 +39,8 @@
 
 ---
 
+[![💻 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dagrigorev&hide=c)](https://github.com/dagrigorev)
+
+---
+
 <img align="left" alt="dagrigorev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dagrigorev&show_icons=true&hide_border=true" />
