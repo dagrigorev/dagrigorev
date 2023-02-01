@@ -10,8 +10,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="dagrigorev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/da_grigorev)
-[<img align="left" alt="dagrigorev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/dagrigorev/)
 [<img align="left" alt="dagrigorev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/vk.svg" />](https://vk.com/da_grigorev)
 
 <br />
