@@ -2,7 +2,6 @@
 *Almost 5 years exeprienced software developer.*
 
 ## I'm a software developer!
-- 💡 I’m currently working on a [DRAKON](https://github.com/dagrigorev/DRAKON.git)
 - 📍 Currently located in Cheboksary (Russia)
 - 🤖 Tryin' to create something significant in AI
 - 👐 Open source addict
