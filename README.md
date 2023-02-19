@@ -1,5 +1,5 @@
 ### Hello there, I'm Dmitry 👋
-*Almost 5 years exeprienced software developer.*
+*Almost 7 years exeprienced software developer.*
 
 ## I'm a software developer!
 - 📍 Currently located in Cheboksary (Russia)
